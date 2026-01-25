@@ -19,4 +19,11 @@ model = google_IA.GenerativeModel('gemini-pro')
 
 
 #----- extraindo/ lendo o arquivo
+print("1. lendo arquivo de clientes gerados")
 
+#le o arquivo csv
+df = pd.read_csv('Clientes_gerados.csv')
+
+#linha de teste
+df= df.head(5)
+print(f"Lidas {len(df)} linhas para processar. ")
