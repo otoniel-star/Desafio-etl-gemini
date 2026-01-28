@@ -77,3 +77,7 @@ Solução: Script final converter do CSV bruto processado para Excel nativo (.xl
     [x] Custo Zero de infraestrutura.
 
     [x] Mensagens de marketing altamente personalizadas geradas.
+--------------------------------------------------------------------
+bibliografia adcional
+
+https://www.youtube.com/watch?v=rGchz3aKFt8
