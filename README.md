@@ -13,7 +13,7 @@
 ---
 
 ## 📋 O Desafio
-O objetivo deste projeto foi construir um pipeline de **ETL (Extract, Transform, Load)** robusto, capaz de ler uma base de dados de clientes, utilizar Inteligência Artificial para gerar mensagens de marketing hiper-personalizadas e salvar os resultados de forma organizada, contornando limitações de APIs gratuitas.
+O objetivo deste projeto foi construir um pipeline de **ETL (Extract, Transform, Load)** , capaz de ler uma base de dados de clientes, utilizar Inteligência Artificial para gerar mensagens de marketing personalizadas e salvar os resultados de forma organizada.
 
 ---
 
@@ -41,20 +41,20 @@ graph TD;
     E --> D;
     D -->|✅ Sucesso| F[💾 Salvar Checkpoint];
     F -->|Fim do Loop| G[📊 Exportar Excel (.xlsx)];
+
 📍 Fase 1: Fundamentação (Extract)
-Entendemos a necessidade de lidar com dados tabulares.
+ A necessidade de lidar com dados tabulares.
 
 Ação: Criação do gerador_dados.py simulando 1.000 clientes com interesses em Cripto, FIIs e Ações.
 
 🚧 Fase 2: Obstáculos Iniciais
-Tentamos uma abordagem clássica com pandas.apply(), mas encontramos barreiras:
+ abordagem clássica com pandas.apply(), mas encontramos barreiras:
 
 🛑 Problema 1: Depreciação da SDK antiga (google.generativeai). ✅ Solução: Migração para a nova SDK google.genai.
 
 🛑 Problema 2: Rate Limiting (Erro 429) e perda de dados em memória. ✅ Solução: O script quebrava ao processar 1.000 linhas de uma vez.
 
-⚙️ Fase 3: Engenharia e Resiliência (Transform)
-Tornamos o script "À prova de falhas":
+⚙️ Fase 3: (Transform)
 
 Lógica de Retry (Backoff): Loop while que identifica o Resource Exhausted. Se der erro, o script dorme por 60s e tenta novamente.
 
@@ -70,13 +70,10 @@ Houve conflito de separadores (, vs ;) no Excel brasileiro.
 Solução: Script final converter do CSV bruto processado para Excel nativo (.xlsx).
 
 🏆 Resultados Alcançados
-[x] Pipeline 100% automatizado e resiliente.
+    [x] Pipeline 100% automatizado e resiliente.
 
-[x] Processamento de grandes volumes respeitando o Free Tier.
+    [x] Processamento de grandes volumes respeitando o Free Tier.
 
-[x] Custo Zero de infraestrutura.
+    [x] Custo Zero de infraestrutura.
 
-[x] Mensagens de marketing altamente personalizadas geradas.
-
-<div align="center"> <sub>Projeto desenvolvido para fins de estudo em Engenharia de Dados e IA.</sub> </div>
-
+    [x] Mensagens de marketing altamente personalizadas geradas.
