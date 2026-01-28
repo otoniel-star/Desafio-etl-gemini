@@ -1,48 +1,82 @@
-🚀 Relatório de Projeto: Pipeline de ETL com IA Generativa
-1. O Desafio
-O objetivo deste projeto foi construir um pipeline de ETL (Extract, Transform, Load) capaz de ler uma base de dados de clientes, utilizar Inteligência Artificial o chat gpt mas eu preferi optar pelo (Google Gemini) para gerar mensagens de marketing personalizadas para cada um e salvar o resultado de forma organizada.
+<div align="center">
 
-2. Tecnologias Utilizadas
-Linguagem: Python 3.12
+# 🚀 Pipeline de ETL com IA Generativa
+### Automação de Marketing com Google Gemini e Resiliência de Dados
 
-Manipulação de Dados: Pandas
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20AI-Gemini%20Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
-Inteligência Artificial: Google GenAI SDK (Gemini 2.5 Flash Lite)
+</div>
 
-Controle de Fluxo: Time & OS (Bibliotecas padrão)
+---
 
-3. A Jornada de Desenvolvimento
-Fase 1: Fundamentação e Extração (Extract)
-Inicialmente, exploramos a diferença entre bancos relacionais (SQL) e não-relacionais (NoSQL), entendendo que para este projeto, lidaríamos com dados tabulares (CSV).
+## 📋 O Desafio
+O objetivo deste projeto foi construir um pipeline de **ETL (Extract, Transform, Load)** robusto, capaz de ler uma base de dados de clientes, utilizar Inteligência Artificial para gerar mensagens de marketing hiper-personalizadas e salvar os resultados de forma organizada, contornando limitações de APIs gratuitas.
 
-Ação: Criamos um script gerador de dados (gerador_dados.py) que simulou uma base de 1.000 clientes com nomes e interesses financeiros variados (Cripto, FIIs, Ações).
+---
 
-Fase 2: Primeira Implementação e Obstáculos
-Na primeira versão do ETL, utilizamos a abordagem clássica com pandas.apply() para processar a IA linha a linha. Enfrentamos três problemas críticos:
+## 🛠️ Tecnologias Utilizadas
 
-Depreciação de SDK: A biblioteca google.generativeai entrou em modo de manutenção.
+| Tecnologia | Função |
+| :--- | :--- |
+| **Python 3.12** | Linguagem principal |
+| **Pandas** | Manipulação e leitura de dados tabulares |
+| **Google GenAI SDK** | Integração com o modelo **Gemini 2.5 Flash Lite** |
+| **Time & OS** | Controle de fluxo e manipulação de sistema de arquivos |
 
-Solução: Migramos para a nova SDK google.genai, garantindo longevidade ao código.
+---
 
-Rate Limiting (Erro 429): O plano gratuito do Google bloqueou as requisições por excesso de velocidade ao tentar processar 1.000 linhas de uma vez.
+## 🛤️ A Jornada de Desenvolvimento
 
-Perda de Dados em Memória: Ao interromper o script (ou em caso de falha), todo o progresso era perdido, pois o salvamento ocorria apenas no final.
+### 🔄 Fluxo de Processamento (Pipeline)
+```mermaid
+graph TD;
+    A[📂 CSV Bruto] -->|Leitura| B(🐍 Script Python);
+    B --> C{🔍 Já processado?};
+    C -->|Sim| B;
+    C -->|Não| D[🤖 API Gemini];
+    D -->|❌ Erro 429| E[💤 Dormir 60s];
+    E --> D;
+    D -->|✅ Sucesso| F[💾 Salvar Checkpoint];
+    F -->|Fim do Loop| G[📊 Exportar Excel (.xlsx)];
+📍 Fase 1: Fundamentação (Extract)
+Entendemos a necessidade de lidar com dados tabulares.
 
-Fase 3: Engenharia e Resiliência (Transform)
-Para tornar o script robusto ("A prova de falhas"), implementamos soluções de Engenharia de Dados avançadas:
+Ação: Criação do gerador_dados.py simulando 1.000 clientes com interesses em Cripto, FIIs e Ações.
 
-Lógica de Retry (Backoff): Criamos um loop while que identifica o erro 429 (Resource Exhausted). Quando detectado, o script "dorme" por 60 segundos e tenta novamente, sem quebrar a execução.
+🚧 Fase 2: Obstáculos Iniciais
+Tentamos uma abordagem clássica com pandas.apply(), mas encontramos barreiras:
 
-Persistência de Estado (Checkpoint): Substituímos o processamento em memória por um loop for que salva no disco rígido (mode='a') a cada linha processada.
+🛑 Problema 1: Depreciação da SDK antiga (google.generativeai). ✅ Solução: Migração para a nova SDK google.genai.
 
-Filtro Inteligente: O script verifica quais IDs já foram salvos no CSV de saída e processa apenas o que falta (Delta Load). Isso permite parar e continuar o script a qualquer momento.
+🛑 Problema 2: Rate Limiting (Erro 429) e perda de dados em memória. ✅ Solução: O script quebrava ao processar 1.000 linhas de uma vez.
 
-Engenharia de Prompt: Refinamos o prompt para solicitar respostas de "Máximo 12 palavras". Isso economizou tokens e acelerou o tempo de resposta da API.
+⚙️ Fase 3: Engenharia e Resiliência (Transform)
+Tornamos o script "À prova de falhas":
 
-Fase 4: Carregamento e Apresentação (Load)
-O arquivo final gerado (.csv) apresentou problemas de formatação ao abrir no Excel brasileiro (conflito de separadores , vs ;).
+Lógica de Retry (Backoff): Loop while que identifica o Resource Exhausted. Se der erro, o script dorme por 60s e tenta novamente.
 
-Solução: Criamos um script final de conversão que lê o CSV bruto processado e exporta para um arquivo Excel nativo (.xlsx), pronto para ser entregue ao time de negócios.
+Persistência (Checkpoint): Salvamento linha a linha (mode='a') no disco. Nada é perdido se a luz acabar.
 
-4. Resultados Alcançados
-✅ Pipeline 100% automatizado e resiliente a falhas de rede/API. ✅ Capacidade de processar grandes volumes de dados respeitando limites do Free Tier. ✅ Custo zero de infraestrutura (rodando localmente com API gratuita). ✅ Geração de mensagens de marketing altamente personalizadas.
+Filtro Inteligente (Delta Load): Verifica IDs já processados para permitir "pausar e continuar".
+
+Engenharia de Prompt: Limitação para "Máximo 12 palavras", economizando tokens e acelerando a API.
+
+📦 Fase 4: Carregamento (Load)
+Houve conflito de separadores (, vs ;) no Excel brasileiro.
+
+Solução: Script final converter do CSV bruto processado para Excel nativo (.xlsx).
+
+🏆 Resultados Alcançados
+[x] Pipeline 100% automatizado e resiliente.
+
+[x] Processamento de grandes volumes respeitando o Free Tier.
+
+[x] Custo Zero de infraestrutura.
+
+[x] Mensagens de marketing altamente personalizadas geradas.
+
+<div align="center"> <sub>Projeto desenvolvido para fins de estudo em Engenharia de Dados e IA.</sub> </div>
+
