@@ -1,0 +1,1001 @@
+id,nome,interesse
+1,Vitor Ferreira,Seguro de Vida
+2,Samuel Araujo,Tesouro Direto
+3,Olivia Barbosa,Criptomoedas
+4,Julia Ferreira,Criptomoedas
+5,Rafaela Martins,Fundos Imobiliários (FIIs)
+6,Samuel Costa,Fundos Imobiliários (FIIs)
+7,Yasmin Oliveira,Day Trade
+8,Pedro Martins,Reserva de Emergência
+9,Lucas Gomes,Financiamento de Imóveis
+10,Igor Santos,Seguro de Vida
+11,Carlos Ribeiro,Tesouro Direto
+12,Carlos Santos,Day Trade
+13,Pedro Santos,Ações e Bolsa de Valores
+14,Lucas Lima,Ações e Bolsa de Valores
+15,Bruno Rodrigues,Fundos Imobiliários (FIIs)
+16,Igor Costa,Day Trade
+17,Mariana Barbosa,Financiamento de Imóveis
+18,Gabriel Pereira,Previdência Privada
+19,Tatiana Souza,Cartão de Crédito Black
+20,Bruno Araujo,Financiamento de Imóveis
+21,Vitor Pereira,Previdência Privada
+22,Igor Souza,Cartão de Crédito Black
+23,Rafaela Silva,Seguro de Vida
+24,Pedro Silva,Cartão de Crédito Black
+25,Carlos Ribeiro,Day Trade
+26,Ana Oliveira,Reserva de Emergência
+27,Lucas Silva,Fundos Imobiliários (FIIs)
+28,Carlos Araujo,Reserva de Emergência
+29,Mariana Barbosa,Previdência Privada
+30,Tatiana Rodrigues,Criptomoedas
+31,Mariana Costa,Cartão de Crédito Black
+32,Rafaela Souza,Criptomoedas
+33,Mariana Almeida,Reserva de Emergência
+34,Pedro Ribeiro,Criptomoedas
+35,Igor Almeida,Financiamento de Imóveis
+36,Olivia Araujo,Cartão de Crédito Black
+37,Samuel Ferreira,Criptomoedas
+38,Olivia Araujo,Reserva de Emergência
+39,Pedro Barbosa,Financiamento de Imóveis
+40,Mariana Barbosa,Seguro de Vida
+41,Carlos Almeida,Ações e Bolsa de Valores
+42,Olivia Rodrigues,Financiamento de Imóveis
+43,Igor Pereira,Criptomoedas
+44,Bruno Martins,Ações e Bolsa de Valores
+45,Julia Silva,Reserva de Emergência
+46,Carlos Silva,Previdência Privada
+47,Gabriel Almeida,Criptomoedas
+48,Julia Costa,Criptomoedas
+49,Lucas Ribeiro,Seguro de Vida
+50,Olivia Ferreira,Previdência Privada
+51,Daniela Santos,Criptomoedas
+52,Fernanda Lima,Tesouro Direto
+53,Bruno Lima,Ações e Bolsa de Valores
+54,Carlos Oliveira,Day Trade
+55,Mariana Pereira,Day Trade
+56,Eduardo Ferreira,Cartão de Crédito Black
+57,Vitor Souza,Cartão de Crédito Black
+58,Olivia Costa,Cartão de Crédito Black
+59,Vitor Almeida,Cartão de Crédito Black
+60,Lucas Gomes,Tesouro Direto
+61,Mariana Almeida,Cartão de Crédito Black
+62,Gabriel Santos,Fundos Imobiliários (FIIs)
+63,Pedro Rodrigues,Seguro de Vida
+64,Samuel Ferreira,Financiamento de Imóveis
+65,Yasmin Almeida,Ações e Bolsa de Valores
+66,Gabriel Martins,Seguro de Vida
+67,Mariana Ribeiro,Day Trade
+68,Vitor Silva,Cartão de Crédito Black
+69,Julia Ribeiro,Reserva de Emergência
+70,Bruno Gomes,Day Trade
+71,Ana Souza,Criptomoedas
+72,Julia Santos,Day Trade
+73,Julia Ferreira,Tesouro Direto
+74,Ana Oliveira,Tesouro Direto
+75,Carlos Ferreira,Previdência Privada
+76,Helena Souza,Ações e Bolsa de Valores
+77,Pedro Martins,Fundos Imobiliários (FIIs)
+78,Bruno Costa,Reserva de Emergência
+79,Carlos Ferreira,Fundos Imobiliários (FIIs)
+80,Fernanda Lima,Ações e Bolsa de Valores
+81,Pedro Ferreira,Financiamento de Imóveis
+82,Olivia Ribeiro,Ações e Bolsa de Valores
+83,Fernanda Lima,Cartão de Crédito Black
+84,Igor Barbosa,Ações e Bolsa de Valores
+85,Nicolas Oliveira,Financiamento de Imóveis
+86,Bruno Lima,Reserva de Emergência
+87,Vitor Barbosa,Ações e Bolsa de Valores
+88,Julia Pereira,Fundos Imobiliários (FIIs)
+89,Daniela Rodrigues,Previdência Privada
+90,Gabriel Lima,Ações e Bolsa de Valores
+91,Nicolas Silva,Cartão de Crédito Black
+92,Eduardo Pereira,Criptomoedas
+93,Eduardo Rodrigues,Fundos Imobiliários (FIIs)
+94,Mariana Souza,Financiamento de Imóveis
+95,Carlos Almeida,Ações e Bolsa de Valores
+96,Yasmin Santos,Previdência Privada
+97,Eduardo Almeida,Ações e Bolsa de Valores
+98,Eduardo Ribeiro,Criptomoedas
+99,Samuel Lima,Day Trade
+100,Pedro Ribeiro,Criptomoedas
+101,Carlos Rodrigues,Seguro de Vida
+102,Tatiana Costa,Criptomoedas
+103,Olivia Souza,Previdência Privada
+104,Gabriel Oliveira,Previdência Privada
+105,Samuel Barbosa,Tesouro Direto
+106,Carlos Gomes,Day Trade
+107,Daniela Souza,Ações e Bolsa de Valores
+108,Ana Martins,Fundos Imobiliários (FIIs)
+109,Lucas Araujo,Reserva de Emergência
+110,Samuel Martins,Reserva de Emergência
+111,Helena Almeida,Fundos Imobiliários (FIIs)
+112,Olivia Rodrigues,Seguro de Vida
+113,Gabriel Ribeiro,Day Trade
+114,Mariana Costa,Reserva de Emergência
+115,Gabriel Oliveira,Cartão de Crédito Black
+116,Olivia Silva,Financiamento de Imóveis
+117,Vitor Almeida,Financiamento de Imóveis
+118,Ana Oliveira,Financiamento de Imóveis
+119,Pedro Costa,Cartão de Crédito Black
+120,Helena Ribeiro,Seguro de Vida
+121,Bruno Barbosa,Cartão de Crédito Black
+122,Yasmin Almeida,Seguro de Vida
+123,Lucas Lima,Financiamento de Imóveis
+124,Gabriel Ferreira,Ações e Bolsa de Valores
+125,Carlos Souza,Tesouro Direto
+126,Samuel Gomes,Day Trade
+127,Lucas Araujo,Cartão de Crédito Black
+128,Fernanda Santos,Reserva de Emergência
+129,Eduardo Almeida,Cartão de Crédito Black
+130,Vitor Barbosa,Seguro de Vida
+131,Julia Silva,Reserva de Emergência
+132,Eduardo Barbosa,Day Trade
+133,Yasmin Gomes,Financiamento de Imóveis
+134,Yasmin Rodrigues,Cartão de Crédito Black
+135,Gabriel Gomes,Criptomoedas
+136,Helena Gomes,Financiamento de Imóveis
+137,Olivia Oliveira,Previdência Privada
+138,Fernanda Santos,Reserva de Emergência
+139,Olivia Ferreira,Tesouro Direto
+140,Fernanda Santos,Day Trade
+141,Yasmin Lima,Cartão de Crédito Black
+142,Pedro Araujo,Reserva de Emergência
+143,Pedro Lima,Tesouro Direto
+144,Helena Souza,Previdência Privada
+145,Julia Araujo,Reserva de Emergência
+146,Tatiana Rodrigues,Day Trade
+147,Tatiana Barbosa,Financiamento de Imóveis
+148,Olivia Souza,Ações e Bolsa de Valores
+149,Samuel Silva,Financiamento de Imóveis
+150,Daniela Gomes,Reserva de Emergência
+151,Fernanda Lima,Criptomoedas
+152,Fernanda Barbosa,Reserva de Emergência
+153,Nicolas Ferreira,Seguro de Vida
+154,Tatiana Santos,Cartão de Crédito Black
+155,Nicolas Costa,Cartão de Crédito Black
+156,Julia Rodrigues,Financiamento de Imóveis
+157,Rafaela Ribeiro,Fundos Imobiliários (FIIs)
+158,Eduardo Costa,Reserva de Emergência
+159,Tatiana Ribeiro,Criptomoedas
+160,Samuel Barbosa,Reserva de Emergência
+161,Julia Ferreira,Reserva de Emergência
+162,Ana Costa,Cartão de Crédito Black
+163,Yasmin Gomes,Seguro de Vida
+164,Tatiana Martins,Fundos Imobiliários (FIIs)
+165,Fernanda Lima,Tesouro Direto
+166,Ana Ribeiro,Reserva de Emergência
+167,Igor Rodrigues,Cartão de Crédito Black
+168,Fernanda Santos,Criptomoedas
+169,Bruno Ferreira,Fundos Imobiliários (FIIs)
+170,Pedro Costa,Day Trade
+171,Eduardo Ribeiro,Ações e Bolsa de Valores
+172,Lucas Santos,Previdência Privada
+173,Igor Almeida,Day Trade
+174,Nicolas Oliveira,Ações e Bolsa de Valores
+175,Fernanda Santos,Seguro de Vida
+176,Yasmin Martins,Day Trade
+177,Helena Araujo,Cartão de Crédito Black
+178,Daniela Barbosa,Ações e Bolsa de Valores
+179,Mariana Costa,Ações e Bolsa de Valores
+180,Helena Costa,Criptomoedas
+181,Bruno Araujo,Seguro de Vida
+182,Samuel Lima,Reserva de Emergência
+183,Rafaela Santos,Day Trade
+184,Yasmin Barbosa,Cartão de Crédito Black
+185,Julia Costa,Reserva de Emergência
+186,Samuel Ferreira,Seguro de Vida
+187,Tatiana Martins,Reserva de Emergência
+188,Julia Martins,Seguro de Vida
+189,Samuel Pereira,Reserva de Emergência
+190,Daniela Araujo,Previdência Privada
+191,Samuel Lima,Fundos Imobiliários (FIIs)
+192,Carlos Santos,Financiamento de Imóveis
+193,Bruno Costa,Financiamento de Imóveis
+194,Rafaela Almeida,Previdência Privada
+195,Rafaela Araujo,Tesouro Direto
+196,Nicolas Almeida,Financiamento de Imóveis
+197,Vitor Ribeiro,Seguro de Vida
+198,Igor Martins,Tesouro Direto
+199,Yasmin Barbosa,Tesouro Direto
+200,Daniela Almeida,Previdência Privada
+201,Lucas Almeida,Tesouro Direto
+202,Mariana Barbosa,Financiamento de Imóveis
+203,Yasmin Rodrigues,Reserva de Emergência
+204,Daniela Costa,Previdência Privada
+205,Carlos Souza,Day Trade
+206,Samuel Barbosa,Financiamento de Imóveis
+207,Mariana Almeida,Cartão de Crédito Black
+208,Ana Almeida,Fundos Imobiliários (FIIs)
+209,Carlos Martins,Criptomoedas
+210,Daniela Ferreira,Ações e Bolsa de Valores
+211,Yasmin Lima,Previdência Privada
+212,Daniela Gomes,Tesouro Direto
+213,Gabriel Santos,Tesouro Direto
+214,Daniela Santos,Criptomoedas
+215,Igor Lima,Seguro de Vida
+216,Ana Costa,Fundos Imobiliários (FIIs)
+217,Pedro Santos,Financiamento de Imóveis
+218,Bruno Barbosa,Criptomoedas
+219,Tatiana Souza,Cartão de Crédito Black
+220,Nicolas Martins,Fundos Imobiliários (FIIs)
+221,Samuel Oliveira,Ações e Bolsa de Valores
+222,Mariana Ferreira,Cartão de Crédito Black
+223,Pedro Martins,Day Trade
+224,Rafaela Santos,Fundos Imobiliários (FIIs)
+225,Yasmin Oliveira,Seguro de Vida
+226,Rafaela Pereira,Fundos Imobiliários (FIIs)
+227,Julia Barbosa,Criptomoedas
+228,Mariana Gomes,Tesouro Direto
+229,Carlos Ferreira,Reserva de Emergência
+230,Julia Rodrigues,Previdência Privada
+231,Yasmin Gomes,Day Trade
+232,Lucas Gomes,Reserva de Emergência
+233,Igor Lima,Financiamento de Imóveis
+234,Eduardo Ferreira,Ações e Bolsa de Valores
+235,Pedro Souza,Ações e Bolsa de Valores
+236,Ana Costa,Fundos Imobiliários (FIIs)
+237,Yasmin Ribeiro,Day Trade
+238,Pedro Barbosa,Fundos Imobiliários (FIIs)
+239,Samuel Silva,Day Trade
+240,Pedro Silva,Previdência Privada
+241,Ana Ribeiro,Ações e Bolsa de Valores
+242,Nicolas Santos,Seguro de Vida
+243,Bruno Ribeiro,Financiamento de Imóveis
+244,Yasmin Ferreira,Day Trade
+245,Nicolas Rodrigues,Fundos Imobiliários (FIIs)
+246,Daniela Ferreira,Ações e Bolsa de Valores
+247,Daniela Oliveira,Seguro de Vida
+248,Daniela Araujo,Cartão de Crédito Black
+249,Rafaela Ribeiro,Previdência Privada
+250,Igor Ferreira,Seguro de Vida
+251,Samuel Souza,Ações e Bolsa de Valores
+252,Fernanda Martins,Reserva de Emergência
+253,Nicolas Oliveira,Cartão de Crédito Black
+254,Rafaela Pereira,Cartão de Crédito Black
+255,Igor Rodrigues,Seguro de Vida
+256,Helena Ribeiro,Previdência Privada
+257,Tatiana Costa,Previdência Privada
+258,Gabriel Souza,Tesouro Direto
+259,Nicolas Silva,Cartão de Crédito Black
+260,Bruno Almeida,Reserva de Emergência
+261,Bruno Barbosa,Criptomoedas
+262,Nicolas Martins,Criptomoedas
+263,Igor Almeida,Financiamento de Imóveis
+264,Helena Pereira,Cartão de Crédito Black
+265,Igor Lima,Fundos Imobiliários (FIIs)
+266,Carlos Lima,Fundos Imobiliários (FIIs)
+267,Tatiana Almeida,Criptomoedas
+268,Julia Pereira,Fundos Imobiliários (FIIs)
+269,Eduardo Gomes,Reserva de Emergência
+270,Olivia Almeida,Cartão de Crédito Black
+271,Carlos Pereira,Criptomoedas
+272,Pedro Ribeiro,Criptomoedas
+273,Igor Pereira,Seguro de Vida
+274,Nicolas Souza,Tesouro Direto
+275,Carlos Almeida,Previdência Privada
+276,Bruno Almeida,Financiamento de Imóveis
+277,Carlos Rodrigues,Previdência Privada
+278,Eduardo Costa,Reserva de Emergência
+279,Samuel Martins,Criptomoedas
+280,Lucas Silva,Cartão de Crédito Black
+281,Julia Silva,Financiamento de Imóveis
+282,Lucas Gomes,Criptomoedas
+283,Pedro Costa,Day Trade
+284,Rafaela Santos,Day Trade
+285,Rafaela Lima,Financiamento de Imóveis
+286,Eduardo Costa,Tesouro Direto
+287,Fernanda Lima,Seguro de Vida
+288,Mariana Martins,Criptomoedas
+289,Gabriel Lima,Reserva de Emergência
+290,Vitor Rodrigues,Criptomoedas
+291,Mariana Pereira,Ações e Bolsa de Valores
+292,Daniela Lima,Tesouro Direto
+293,Julia Rodrigues,Reserva de Emergência
+294,Mariana Gomes,Reserva de Emergência
+295,Bruno Gomes,Previdência Privada
+296,Tatiana Lima,Day Trade
+297,Lucas Silva,Fundos Imobiliários (FIIs)
+298,Ana Pereira,Financiamento de Imóveis
+299,Daniela Gomes,Reserva de Emergência
+300,Eduardo Pereira,Criptomoedas
+301,Helena Pereira,Day Trade
+302,Nicolas Lima,Tesouro Direto
+303,Julia Silva,Fundos Imobiliários (FIIs)
+304,Olivia Araujo,Fundos Imobiliários (FIIs)
+305,Gabriel Oliveira,Tesouro Direto
+306,Samuel Rodrigues,Cartão de Crédito Black
+307,Igor Araujo,Day Trade
+308,Fernanda Araujo,Financiamento de Imóveis
+309,Pedro Lima,Tesouro Direto
+310,Rafaela Souza,Reserva de Emergência
+311,Eduardo Oliveira,Previdência Privada
+312,Carlos Ferreira,Cartão de Crédito Black
+313,Mariana Gomes,Ações e Bolsa de Valores
+314,Ana Araujo,Reserva de Emergência
+315,Daniela Barbosa,Ações e Bolsa de Valores
+316,Lucas Souza,Ações e Bolsa de Valores
+317,Rafaela Araujo,Tesouro Direto
+318,Daniela Ribeiro,Day Trade
+319,Igor Pereira,Financiamento de Imóveis
+320,Carlos Araujo,Seguro de Vida
+321,Samuel Silva,Cartão de Crédito Black
+322,Fernanda Souza,Tesouro Direto
+323,Tatiana Oliveira,Reserva de Emergência
+324,Pedro Gomes,Previdência Privada
+325,Igor Almeida,Fundos Imobiliários (FIIs)
+326,Nicolas Oliveira,Financiamento de Imóveis
+327,Bruno Oliveira,Criptomoedas
+328,Helena Santos,Tesouro Direto
+329,Julia Ribeiro,Previdência Privada
+330,Tatiana Almeida,Cartão de Crédito Black
+331,Samuel Silva,Day Trade
+332,Julia Pereira,Reserva de Emergência
+333,Lucas Almeida,Cartão de Crédito Black
+334,Rafaela Oliveira,Cartão de Crédito Black
+335,Lucas Araujo,Fundos Imobiliários (FIIs)
+336,Vitor Costa,Cartão de Crédito Black
+337,Ana Ferreira,Reserva de Emergência
+338,Eduardo Martins,Reserva de Emergência
+339,Ana Ferreira,Previdência Privada
+340,Nicolas Costa,Previdência Privada
+341,Olivia Rodrigues,Reserva de Emergência
+342,Lucas Oliveira,Previdência Privada
+343,Samuel Martins,Cartão de Crédito Black
+344,Julia Silva,Reserva de Emergência
+345,Mariana Martins,Financiamento de Imóveis
+346,Julia Oliveira,Cartão de Crédito Black
+347,Yasmin Araujo,Previdência Privada
+348,Eduardo Barbosa,Criptomoedas
+349,Samuel Lima,Seguro de Vida
+350,Rafaela Lima,Reserva de Emergência
+351,Carlos Ferreira,Cartão de Crédito Black
+352,Olivia Lima,Financiamento de Imóveis
+353,Nicolas Araujo,Seguro de Vida
+354,Tatiana Pereira,Fundos Imobiliários (FIIs)
+355,Rafaela Oliveira,Fundos Imobiliários (FIIs)
+356,Tatiana Araujo,Tesouro Direto
+357,Ana Silva,Tesouro Direto
+358,Tatiana Costa,Criptomoedas
+359,Fernanda Silva,Criptomoedas
+360,Nicolas Araujo,Cartão de Crédito Black
+361,Carlos Souza,Tesouro Direto
+362,Yasmin Ferreira,Ações e Bolsa de Valores
+363,Nicolas Oliveira,Day Trade
+364,Nicolas Ferreira,Cartão de Crédito Black
+365,Daniela Almeida,Tesouro Direto
+366,Daniela Pereira,Seguro de Vida
+367,Fernanda Pereira,Previdência Privada
+368,Samuel Gomes,Financiamento de Imóveis
+369,Tatiana Pereira,Day Trade
+370,Helena Oliveira,Reserva de Emergência
+371,Samuel Santos,Seguro de Vida
+372,Fernanda Silva,Day Trade
+373,Samuel Araujo,Ações e Bolsa de Valores
+374,Ana Pereira,Reserva de Emergência
+375,Gabriel Martins,Tesouro Direto
+376,Bruno Santos,Financiamento de Imóveis
+377,Julia Almeida,Cartão de Crédito Black
+378,Ana Ferreira,Day Trade
+379,Vitor Costa,Ações e Bolsa de Valores
+380,Mariana Barbosa,Criptomoedas
+381,Rafaela Gomes,Day Trade
+382,Fernanda Costa,Cartão de Crédito Black
+383,Ana Oliveira,Day Trade
+384,Fernanda Araujo,Financiamento de Imóveis
+385,Daniela Costa,Previdência Privada
+386,Fernanda Oliveira,Financiamento de Imóveis
+387,Yasmin Almeida,Ações e Bolsa de Valores
+388,Gabriel Santos,Fundos Imobiliários (FIIs)
+389,Ana Costa,Ações e Bolsa de Valores
+390,Ana Ferreira,Day Trade
+391,Eduardo Costa,Day Trade
+392,Ana Santos,Ações e Bolsa de Valores
+393,Pedro Oliveira,Tesouro Direto
+394,Yasmin Araujo,Ações e Bolsa de Valores
+395,Samuel Ribeiro,Financiamento de Imóveis
+396,Pedro Costa,Tesouro Direto
+397,Olivia Ribeiro,Tesouro Direto
+398,Lucas Costa,Seguro de Vida
+399,Nicolas Souza,Cartão de Crédito Black
+400,Igor Costa,Day Trade
+401,Ana Ferreira,Tesouro Direto
+402,Helena Almeida,Fundos Imobiliários (FIIs)
+403,Ana Oliveira,Seguro de Vida
+404,Carlos Barbosa,Fundos Imobiliários (FIIs)
+405,Pedro Oliveira,Previdência Privada
+406,Mariana Lima,Financiamento de Imóveis
+407,Mariana Pereira,Cartão de Crédito Black
+408,Nicolas Araujo,Financiamento de Imóveis
+409,Julia Silva,Financiamento de Imóveis
+410,Tatiana Ferreira,Day Trade
+411,Fernanda Rodrigues,Financiamento de Imóveis
+412,Rafaela Rodrigues,Cartão de Crédito Black
+413,Yasmin Gomes,Seguro de Vida
+414,Ana Rodrigues,Financiamento de Imóveis
+415,Fernanda Ferreira,Day Trade
+416,Julia Silva,Tesouro Direto
+417,Ana Ribeiro,Criptomoedas
+418,Bruno Ribeiro,Previdência Privada
+419,Samuel Silva,Fundos Imobiliários (FIIs)
+420,Ana Costa,Ações e Bolsa de Valores
+421,Gabriel Araujo,Day Trade
+422,Igor Lima,Criptomoedas
+423,Daniela Martins,Reserva de Emergência
+424,Julia Rodrigues,Criptomoedas
+425,Mariana Almeida,Day Trade
+426,Yasmin Costa,Day Trade
+427,Bruno Barbosa,Seguro de Vida
+428,Tatiana Ribeiro,Financiamento de Imóveis
+429,Yasmin Lima,Previdência Privada
+430,Daniela Lima,Fundos Imobiliários (FIIs)
+431,Samuel Rodrigues,Reserva de Emergência
+432,Carlos Gomes,Seguro de Vida
+433,Gabriel Lima,Seguro de Vida
+434,Yasmin Santos,Tesouro Direto
+435,Julia Pereira,Day Trade
+436,Samuel Pereira,Previdência Privada
+437,Bruno Araujo,Cartão de Crédito Black
+438,Yasmin Gomes,Criptomoedas
+439,Rafaela Rodrigues,Criptomoedas
+440,Tatiana Ferreira,Cartão de Crédito Black
+441,Nicolas Souza,Criptomoedas
+442,Pedro Rodrigues,Criptomoedas
+443,Helena Gomes,Seguro de Vida
+444,Yasmin Pereira,Ações e Bolsa de Valores
+445,Bruno Martins,Previdência Privada
+446,Eduardo Pereira,Reserva de Emergência
+447,Ana Gomes,Ações e Bolsa de Valores
+448,Carlos Barbosa,Fundos Imobiliários (FIIs)
+449,Igor Rodrigues,Reserva de Emergência
+450,Tatiana Costa,Criptomoedas
+451,Lucas Costa,Ações e Bolsa de Valores
+452,Rafaela Costa,Previdência Privada
+453,Tatiana Lima,Financiamento de Imóveis
+454,Julia Gomes,Criptomoedas
+455,Ana Souza,Tesouro Direto
+456,Fernanda Araujo,Day Trade
+457,Yasmin Souza,Previdência Privada
+458,Carlos Silva,Financiamento de Imóveis
+459,Carlos Souza,Previdência Privada
+460,Samuel Gomes,Seguro de Vida
+461,Vitor Souza,Seguro de Vida
+462,Samuel Martins,Tesouro Direto
+463,Vitor Martins,Previdência Privada
+464,Igor Oliveira,Ações e Bolsa de Valores
+465,Eduardo Santos,Criptomoedas
+466,Igor Araujo,Day Trade
+467,Tatiana Barbosa,Previdência Privada
+468,Igor Martins,Financiamento de Imóveis
+469,Gabriel Costa,Criptomoedas
+470,Vitor Lima,Reserva de Emergência
+471,Daniela Ribeiro,Seguro de Vida
+472,Julia Souza,Fundos Imobiliários (FIIs)
+473,Julia Rodrigues,Seguro de Vida
+474,Ana Oliveira,Cartão de Crédito Black
+475,Samuel Lima,Ações e Bolsa de Valores
+476,Fernanda Barbosa,Day Trade
+477,Samuel Rodrigues,Cartão de Crédito Black
+478,Mariana Barbosa,Ações e Bolsa de Valores
+479,Vitor Gomes,Day Trade
+480,Pedro Araujo,Reserva de Emergência
+481,Mariana Costa,Criptomoedas
+482,Eduardo Rodrigues,Previdência Privada
+483,Helena Pereira,Day Trade
+484,Eduardo Almeida,Previdência Privada
+485,Lucas Oliveira,Fundos Imobiliários (FIIs)
+486,Helena Oliveira,Ações e Bolsa de Valores
+487,Nicolas Araujo,Day Trade
+488,Fernanda Silva,Day Trade
+489,Samuel Martins,Criptomoedas
+490,Pedro Gomes,Fundos Imobiliários (FIIs)
+491,Daniela Gomes,Reserva de Emergência
+492,Tatiana Ribeiro,Fundos Imobiliários (FIIs)
+493,Daniela Santos,Reserva de Emergência
+494,Carlos Almeida,Day Trade
+495,Eduardo Santos,Financiamento de Imóveis
+496,Samuel Pereira,Ações e Bolsa de Valores
+497,Fernanda Ribeiro,Ações e Bolsa de Valores
+498,Tatiana Pereira,Previdência Privada
+499,Pedro Souza,Criptomoedas
+500,Vitor Ribeiro,Cartão de Crédito Black
+501,Samuel Gomes,Tesouro Direto
+502,Bruno Rodrigues,Ações e Bolsa de Valores
+503,Rafaela Barbosa,Previdência Privada
+504,Fernanda Souza,Financiamento de Imóveis
+505,Igor Martins,Ações e Bolsa de Valores
+506,Yasmin Ribeiro,Fundos Imobiliários (FIIs)
+507,Vitor Barbosa,Ações e Bolsa de Valores
+508,Ana Silva,Previdência Privada
+509,Pedro Martins,Seguro de Vida
+510,Rafaela Souza,Reserva de Emergência
+511,Rafaela Silva,Day Trade
+512,Lucas Gomes,Cartão de Crédito Black
+513,Yasmin Santos,Tesouro Direto
+514,Eduardo Almeida,Fundos Imobiliários (FIIs)
+515,Eduardo Ribeiro,Financiamento de Imóveis
+516,Ana Martins,Ações e Bolsa de Valores
+517,Mariana Almeida,Day Trade
+518,Daniela Martins,Tesouro Direto
+519,Fernanda Araujo,Tesouro Direto
+520,Nicolas Almeida,Day Trade
+521,Pedro Lima,Ações e Bolsa de Valores
+522,Olivia Barbosa,Day Trade
+523,Mariana Souza,Reserva de Emergência
+524,Rafaela Ribeiro,Tesouro Direto
+525,Igor Gomes,Reserva de Emergência
+526,Igor Santos,Cartão de Crédito Black
+527,Olivia Almeida,Cartão de Crédito Black
+528,Tatiana Silva,Ações e Bolsa de Valores
+529,Olivia Martins,Fundos Imobiliários (FIIs)
+530,Lucas Costa,Cartão de Crédito Black
+531,Vitor Pereira,Previdência Privada
+532,Fernanda Barbosa,Seguro de Vida
+533,Tatiana Souza,Ações e Bolsa de Valores
+534,Nicolas Pereira,Tesouro Direto
+535,Tatiana Rodrigues,Tesouro Direto
+536,Julia Pereira,Fundos Imobiliários (FIIs)
+537,Bruno Ferreira,Day Trade
+538,Samuel Costa,Day Trade
+539,Julia Gomes,Previdência Privada
+540,Carlos Ferreira,Seguro de Vida
+541,Nicolas Martins,Tesouro Direto
+542,Gabriel Santos,Cartão de Crédito Black
+543,Carlos Pereira,Ações e Bolsa de Valores
+544,Lucas Oliveira,Ações e Bolsa de Valores
+545,Fernanda Santos,Day Trade
+546,Helena Barbosa,Reserva de Emergência
+547,Samuel Martins,Criptomoedas
+548,Fernanda Costa,Reserva de Emergência
+549,Rafaela Barbosa,Previdência Privada
+550,Nicolas Oliveira,Criptomoedas
+551,Eduardo Pereira,Previdência Privada
+552,Samuel Martins,Previdência Privada
+553,Pedro Martins,Ações e Bolsa de Valores
+554,Lucas Almeida,Tesouro Direto
+555,Lucas Araujo,Cartão de Crédito Black
+556,Gabriel Almeida,Cartão de Crédito Black
+557,Gabriel Ferreira,Cartão de Crédito Black
+558,Helena Barbosa,Previdência Privada
+559,Daniela Costa,Seguro de Vida
+560,Yasmin Martins,Seguro de Vida
+561,Daniela Ferreira,Fundos Imobiliários (FIIs)
+562,Nicolas Pereira,Reserva de Emergência
+563,Samuel Araujo,Reserva de Emergência
+564,Gabriel Almeida,Financiamento de Imóveis
+565,Yasmin Souza,Criptomoedas
+566,Vitor Costa,Previdência Privada
+567,Daniela Silva,Criptomoedas
+568,Ana Silva,Ações e Bolsa de Valores
+569,Mariana Santos,Fundos Imobiliários (FIIs)
+570,Tatiana Pereira,Tesouro Direto
+571,Helena Lima,Criptomoedas
+572,Mariana Gomes,Criptomoedas
+573,Tatiana Lima,Financiamento de Imóveis
+574,Mariana Ribeiro,Ações e Bolsa de Valores
+575,Olivia Silva,Reserva de Emergência
+576,Samuel Santos,Reserva de Emergência
+577,Yasmin Souza,Ações e Bolsa de Valores
+578,Eduardo Oliveira,Previdência Privada
+579,Helena Pereira,Day Trade
+580,Igor Santos,Day Trade
+581,Nicolas Silva,Cartão de Crédito Black
+582,Helena Ribeiro,Financiamento de Imóveis
+583,Bruno Martins,Fundos Imobiliários (FIIs)
+584,Igor Souza,Cartão de Crédito Black
+585,Rafaela Santos,Seguro de Vida
+586,Carlos Lima,Fundos Imobiliários (FIIs)
+587,Pedro Costa,Tesouro Direto
+588,Daniela Costa,Reserva de Emergência
+589,Julia Ferreira,Criptomoedas
+590,Helena Rodrigues,Financiamento de Imóveis
+591,Lucas Silva,Seguro de Vida
+592,Daniela Lima,Fundos Imobiliários (FIIs)
+593,Gabriel Silva,Financiamento de Imóveis
+594,Carlos Almeida,Day Trade
+595,Helena Araujo,Tesouro Direto
+596,Helena Barbosa,Reserva de Emergência
+597,Helena Pereira,Ações e Bolsa de Valores
+598,Daniela Silva,Fundos Imobiliários (FIIs)
+599,Igor Ribeiro,Cartão de Crédito Black
+600,Eduardo Martins,Financiamento de Imóveis
+601,Tatiana Barbosa,Criptomoedas
+602,Tatiana Rodrigues,Previdência Privada
+603,Fernanda Martins,Criptomoedas
+604,Fernanda Gomes,Reserva de Emergência
+605,Bruno Gomes,Reserva de Emergência
+606,Julia Pereira,Fundos Imobiliários (FIIs)
+607,Pedro Silva,Criptomoedas
+608,Julia Silva,Day Trade
+609,Daniela Silva,Fundos Imobiliários (FIIs)
+610,Nicolas Santos,Reserva de Emergência
+611,Nicolas Almeida,Criptomoedas
+612,Yasmin Costa,Previdência Privada
+613,Lucas Gomes,Fundos Imobiliários (FIIs)
+614,Helena Almeida,Seguro de Vida
+615,Helena Araujo,Previdência Privada
+616,Tatiana Barbosa,Day Trade
+617,Olivia Silva,Ações e Bolsa de Valores
+618,Igor Almeida,Day Trade
+619,Bruno Gomes,Criptomoedas
+620,Olivia Araujo,Ações e Bolsa de Valores
+621,Eduardo Araujo,Cartão de Crédito Black
+622,Igor Silva,Cartão de Crédito Black
+623,Rafaela Martins,Seguro de Vida
+624,Lucas Ferreira,Seguro de Vida
+625,Eduardo Oliveira,Seguro de Vida
+626,Olivia Santos,Ações e Bolsa de Valores
+627,Lucas Lima,Criptomoedas
+628,Rafaela Barbosa,Ações e Bolsa de Valores
+629,Bruno Barbosa,Reserva de Emergência
+630,Bruno Araujo,Previdência Privada
+631,Helena Lima,Criptomoedas
+632,Bruno Souza,Tesouro Direto
+633,Daniela Rodrigues,Cartão de Crédito Black
+634,Pedro Oliveira,Ações e Bolsa de Valores
+635,Lucas Pereira,Seguro de Vida
+636,Vitor Costa,Cartão de Crédito Black
+637,Lucas Souza,Cartão de Crédito Black
+638,Tatiana Barbosa,Ações e Bolsa de Valores
+639,Fernanda Pereira,Fundos Imobiliários (FIIs)
+640,Rafaela Santos,Tesouro Direto
+641,Bruno Silva,Fundos Imobiliários (FIIs)
+642,Olivia Pereira,Seguro de Vida
+643,Fernanda Barbosa,Ações e Bolsa de Valores
+644,Mariana Oliveira,Fundos Imobiliários (FIIs)
+645,Eduardo Ferreira,Day Trade
+646,Yasmin Souza,Previdência Privada
+647,Vitor Martins,Day Trade
+648,Nicolas Ferreira,Cartão de Crédito Black
+649,Daniela Souza,Reserva de Emergência
+650,Daniela Santos,Previdência Privada
+651,Igor Oliveira,Seguro de Vida
+652,Olivia Oliveira,Tesouro Direto
+653,Pedro Souza,Seguro de Vida
+654,Helena Ribeiro,Ações e Bolsa de Valores
+655,Ana Souza,Reserva de Emergência
+656,Carlos Ribeiro,Criptomoedas
+657,Helena Almeida,Reserva de Emergência
+658,Tatiana Rodrigues,Reserva de Emergência
+659,Lucas Martins,Criptomoedas
+660,Julia Lima,Fundos Imobiliários (FIIs)
+661,Lucas Souza,Reserva de Emergência
+662,Rafaela Rodrigues,Cartão de Crédito Black
+663,Bruno Gomes,Financiamento de Imóveis
+664,Eduardo Oliveira,Previdência Privada
+665,Ana Santos,Cartão de Crédito Black
+666,Rafaela Souza,Fundos Imobiliários (FIIs)
+667,Carlos Souza,Seguro de Vida
+668,Rafaela Costa,Ações e Bolsa de Valores
+669,Helena Santos,Fundos Imobiliários (FIIs)
+670,Vitor Santos,Cartão de Crédito Black
+671,Tatiana Rodrigues,Reserva de Emergência
+672,Ana Santos,Day Trade
+673,Helena Rodrigues,Tesouro Direto
+674,Rafaela Araujo,Previdência Privada
+675,Helena Oliveira,Ações e Bolsa de Valores
+676,Igor Almeida,Seguro de Vida
+677,Mariana Lima,Day Trade
+678,Olivia Barbosa,Tesouro Direto
+679,Igor Ferreira,Previdência Privada
+680,Mariana Almeida,Cartão de Crédito Black
+681,Eduardo Souza,Seguro de Vida
+682,Lucas Martins,Ações e Bolsa de Valores
+683,Fernanda Almeida,Financiamento de Imóveis
+684,Julia Araujo,Fundos Imobiliários (FIIs)
+685,Yasmin Costa,Day Trade
+686,Lucas Ferreira,Reserva de Emergência
+687,Nicolas Martins,Previdência Privada
+688,Bruno Silva,Day Trade
+689,Carlos Barbosa,Previdência Privada
+690,Samuel Ferreira,Fundos Imobiliários (FIIs)
+691,Carlos Ferreira,Tesouro Direto
+692,Fernanda Souza,Tesouro Direto
+693,Nicolas Santos,Tesouro Direto
+694,Tatiana Silva,Seguro de Vida
+695,Daniela Silva,Fundos Imobiliários (FIIs)
+696,Nicolas Oliveira,Criptomoedas
+697,Helena Lima,Cartão de Crédito Black
+698,Vitor Silva,Financiamento de Imóveis
+699,Samuel Barbosa,Reserva de Emergência
+700,Ana Ferreira,Reserva de Emergência
+701,Igor Souza,Financiamento de Imóveis
+702,Ana Almeida,Seguro de Vida
+703,Julia Lima,Seguro de Vida
+704,Lucas Ribeiro,Fundos Imobiliários (FIIs)
+705,Fernanda Barbosa,Reserva de Emergência
+706,Fernanda Silva,Day Trade
+707,Igor Ferreira,Reserva de Emergência
+708,Yasmin Barbosa,Ações e Bolsa de Valores
+709,Rafaela Santos,Day Trade
+710,Ana Gomes,Cartão de Crédito Black
+711,Gabriel Lima,Financiamento de Imóveis
+712,Lucas Martins,Ações e Bolsa de Valores
+713,Fernanda Gomes,Fundos Imobiliários (FIIs)
+714,Mariana Oliveira,Seguro de Vida
+715,Rafaela Silva,Cartão de Crédito Black
+716,Fernanda Almeida,Previdência Privada
+717,Gabriel Souza,Financiamento de Imóveis
+718,Ana Barbosa,Day Trade
+719,Igor Gomes,Fundos Imobiliários (FIIs)
+720,Vitor Araujo,Cartão de Crédito Black
+721,Pedro Ribeiro,Ações e Bolsa de Valores
+722,Fernanda Lima,Criptomoedas
+723,Ana Ferreira,Tesouro Direto
+724,Igor Gomes,Cartão de Crédito Black
+725,Lucas Oliveira,Reserva de Emergência
+726,Tatiana Santos,Seguro de Vida
+727,Rafaela Gomes,Fundos Imobiliários (FIIs)
+728,Nicolas Lima,Tesouro Direto
+729,Tatiana Souza,Fundos Imobiliários (FIIs)
+730,Lucas Lima,Reserva de Emergência
+731,Gabriel Santos,Tesouro Direto
+732,Nicolas Costa,Reserva de Emergência
+733,Bruno Araujo,Financiamento de Imóveis
+734,Lucas Ribeiro,Seguro de Vida
+735,Tatiana Oliveira,Cartão de Crédito Black
+736,Mariana Oliveira,Seguro de Vida
+737,Carlos Santos,Day Trade
+738,Mariana Pereira,Day Trade
+739,Samuel Ferreira,Day Trade
+740,Yasmin Santos,Reserva de Emergência
+741,Rafaela Gomes,Financiamento de Imóveis
+742,Fernanda Almeida,Tesouro Direto
+743,Mariana Gomes,Reserva de Emergência
+744,Julia Souza,Tesouro Direto
+745,Carlos Gomes,Ações e Bolsa de Valores
+746,Helena Souza,Financiamento de Imóveis
+747,Rafaela Gomes,Reserva de Emergência
+748,Ana Martins,Ações e Bolsa de Valores
+749,Yasmin Almeida,Day Trade
+750,Samuel Almeida,Seguro de Vida
+751,Pedro Pereira,Previdência Privada
+752,Samuel Martins,Criptomoedas
+753,Carlos Lima,Reserva de Emergência
+754,Daniela Rodrigues,Tesouro Direto
+755,Mariana Pereira,Seguro de Vida
+756,Yasmin Barbosa,Ações e Bolsa de Valores
+757,Julia Souza,Ações e Bolsa de Valores
+758,Rafaela Ferreira,Tesouro Direto
+759,Nicolas Souza,Previdência Privada
+760,Nicolas Rodrigues,Financiamento de Imóveis
+761,Rafaela Ferreira,Tesouro Direto
+762,Daniela Ribeiro,Reserva de Emergência
+763,Carlos Martins,Day Trade
+764,Daniela Costa,Financiamento de Imóveis
+765,Rafaela Pereira,Fundos Imobiliários (FIIs)
+766,Pedro Costa,Ações e Bolsa de Valores
+767,Pedro Ferreira,Day Trade
+768,Pedro Almeida,Criptomoedas
+769,Fernanda Lima,Ações e Bolsa de Valores
+770,Eduardo Barbosa,Fundos Imobiliários (FIIs)
+771,Fernanda Lima,Tesouro Direto
+772,Tatiana Gomes,Criptomoedas
+773,Yasmin Souza,Ações e Bolsa de Valores
+774,Gabriel Silva,Fundos Imobiliários (FIIs)
+775,Igor Almeida,Fundos Imobiliários (FIIs)
+776,Vitor Barbosa,Financiamento de Imóveis
+777,Pedro Costa,Criptomoedas
+778,Olivia Martins,Tesouro Direto
+779,Pedro Santos,Seguro de Vida
+780,Fernanda Souza,Tesouro Direto
+781,Nicolas Araujo,Day Trade
+782,Pedro Oliveira,Tesouro Direto
+783,Helena Almeida,Ações e Bolsa de Valores
+784,Helena Costa,Tesouro Direto
+785,Daniela Rodrigues,Criptomoedas
+786,Olivia Oliveira,Cartão de Crédito Black
+787,Daniela Pereira,Tesouro Direto
+788,Yasmin Oliveira,Ações e Bolsa de Valores
+789,Eduardo Oliveira,Fundos Imobiliários (FIIs)
+790,Bruno Rodrigues,Tesouro Direto
+791,Helena Ribeiro,Reserva de Emergência
+792,Bruno Oliveira,Financiamento de Imóveis
+793,Lucas Costa,Cartão de Crédito Black
+794,Samuel Gomes,Tesouro Direto
+795,Bruno Rodrigues,Fundos Imobiliários (FIIs)
+796,Yasmin Martins,Fundos Imobiliários (FIIs)
+797,Olivia Almeida,Criptomoedas
+798,Carlos Gomes,Financiamento de Imóveis
+799,Carlos Santos,Previdência Privada
+800,Eduardo Gomes,Financiamento de Imóveis
+801,Rafaela Martins,Day Trade
+802,Fernanda Costa,Day Trade
+803,Lucas Costa,Previdência Privada
+804,Pedro Santos,Fundos Imobiliários (FIIs)
+805,Rafaela Almeida,Cartão de Crédito Black
+806,Pedro Pereira,Tesouro Direto
+807,Igor Costa,Cartão de Crédito Black
+808,Eduardo Santos,Financiamento de Imóveis
+809,Carlos Ferreira,Cartão de Crédito Black
+810,Helena Lima,Financiamento de Imóveis
+811,Daniela Costa,Financiamento de Imóveis
+812,Helena Silva,Fundos Imobiliários (FIIs)
+813,Tatiana Almeida,Tesouro Direto
+814,Igor Santos,Previdência Privada
+815,Ana Costa,Previdência Privada
+816,Lucas Silva,Cartão de Crédito Black
+817,Vitor Ribeiro,Fundos Imobiliários (FIIs)
+818,Nicolas Souza,Criptomoedas
+819,Carlos Ferreira,Previdência Privada
+820,Julia Almeida,Seguro de Vida
+821,Igor Santos,Cartão de Crédito Black
+822,Tatiana Pereira,Criptomoedas
+823,Pedro Ferreira,Criptomoedas
+824,Yasmin Araujo,Fundos Imobiliários (FIIs)
+825,Fernanda Souza,Ações e Bolsa de Valores
+826,Pedro Gomes,Criptomoedas
+827,Ana Araujo,Cartão de Crédito Black
+828,Nicolas Souza,Tesouro Direto
+829,Bruno Ribeiro,Reserva de Emergência
+830,Mariana Santos,Reserva de Emergência
+831,Tatiana Martins,Reserva de Emergência
+832,Helena Oliveira,Previdência Privada
+833,Nicolas Souza,Reserva de Emergência
+834,Pedro Araujo,Financiamento de Imóveis
+835,Yasmin Souza,Tesouro Direto
+836,Igor Pereira,Previdência Privada
+837,Julia Gomes,Fundos Imobiliários (FIIs)
+838,Tatiana Almeida,Seguro de Vida
+839,Vitor Almeida,Previdência Privada
+840,Daniela Santos,Reserva de Emergência
+841,Bruno Pereira,Day Trade
+842,Tatiana Santos,Criptomoedas
+843,Tatiana Silva,Criptomoedas
+844,Carlos Ribeiro,Ações e Bolsa de Valores
+845,Rafaela Rodrigues,Day Trade
+846,Vitor Costa,Reserva de Emergência
+847,Igor Barbosa,Reserva de Emergência
+848,Gabriel Lima,Cartão de Crédito Black
+849,Nicolas Martins,Criptomoedas
+850,Lucas Almeida,Financiamento de Imóveis
+851,Lucas Souza,Criptomoedas
+852,Olivia Oliveira,Seguro de Vida
+853,Rafaela Costa,Reserva de Emergência
+854,Helena Almeida,Ações e Bolsa de Valores
+855,Olivia Barbosa,Criptomoedas
+856,Rafaela Barbosa,Financiamento de Imóveis
+857,Samuel Barbosa,Cartão de Crédito Black
+858,Lucas Rodrigues,Tesouro Direto
+859,Gabriel Oliveira,Financiamento de Imóveis
+860,Samuel Gomes,Fundos Imobiliários (FIIs)
+861,Carlos Ribeiro,Cartão de Crédito Black
+862,Pedro Lima,Day Trade
+863,Rafaela Gomes,Reserva de Emergência
+864,Mariana Pereira,Criptomoedas
+865,Daniela Barbosa,Ações e Bolsa de Valores
+866,Samuel Gomes,Day Trade
+867,Igor Rodrigues,Financiamento de Imóveis
+868,Helena Araujo,Financiamento de Imóveis
+869,Yasmin Barbosa,Reserva de Emergência
+870,Pedro Almeida,Financiamento de Imóveis
+871,Samuel Costa,Seguro de Vida
+872,Gabriel Martins,Seguro de Vida
+873,Lucas Martins,Tesouro Direto
+874,Mariana Gomes,Cartão de Crédito Black
+875,Pedro Ferreira,Financiamento de Imóveis
+876,Julia Ribeiro,Reserva de Emergência
+877,Eduardo Lima,Seguro de Vida
+878,Pedro Araujo,Criptomoedas
+879,Carlos Ribeiro,Reserva de Emergência
+880,Vitor Ribeiro,Seguro de Vida
+881,Fernanda Ribeiro,Day Trade
+882,Lucas Ferreira,Fundos Imobiliários (FIIs)
+883,Eduardo Araujo,Reserva de Emergência
+884,Helena Costa,Seguro de Vida
+885,Samuel Oliveira,Seguro de Vida
+886,Tatiana Ribeiro,Ações e Bolsa de Valores
+887,Yasmin Barbosa,Previdência Privada
+888,Vitor Martins,Previdência Privada
+889,Eduardo Lima,Fundos Imobiliários (FIIs)
+890,Eduardo Barbosa,Previdência Privada
+891,Julia Souza,Reserva de Emergência
+892,Helena Araujo,Tesouro Direto
+893,Mariana Barbosa,Criptomoedas
+894,Eduardo Costa,Tesouro Direto
+895,Vitor Almeida,Financiamento de Imóveis
+896,Pedro Almeida,Seguro de Vida
+897,Bruno Oliveira,Reserva de Emergência
+898,Bruno Souza,Financiamento de Imóveis
+899,Yasmin Martins,Previdência Privada
+900,Daniela Gomes,Ações e Bolsa de Valores
+901,Gabriel Oliveira,Fundos Imobiliários (FIIs)
+902,Vitor Souza,Criptomoedas
+903,Tatiana Santos,Seguro de Vida
+904,Helena Martins,Fundos Imobiliários (FIIs)
+905,Lucas Costa,Tesouro Direto
+906,Fernanda Costa,Ações e Bolsa de Valores
+907,Julia Martins,Seguro de Vida
+908,Yasmin Santos,Tesouro Direto
+909,Daniela Souza,Seguro de Vida
+910,Helena Rodrigues,Criptomoedas
+911,Pedro Lima,Cartão de Crédito Black
+912,Rafaela Ferreira,Day Trade
+913,Fernanda Barbosa,Tesouro Direto
+914,Lucas Gomes,Tesouro Direto
+915,Yasmin Rodrigues,Seguro de Vida
+916,Rafaela Araujo,Seguro de Vida
+917,Lucas Ferreira,Financiamento de Imóveis
+918,Samuel Ferreira,Financiamento de Imóveis
+919,Mariana Lima,Financiamento de Imóveis
+920,Pedro Costa,Tesouro Direto
+921,Gabriel Gomes,Ações e Bolsa de Valores
+922,Fernanda Araujo,Financiamento de Imóveis
+923,Tatiana Ferreira,Reserva de Emergência
+924,Gabriel Barbosa,Cartão de Crédito Black
+925,Fernanda Rodrigues,Cartão de Crédito Black
+926,Gabriel Gomes,Previdência Privada
+927,Daniela Ferreira,Day Trade
+928,Samuel Souza,Seguro de Vida
+929,Gabriel Ferreira,Previdência Privada
+930,Igor Pereira,Cartão de Crédito Black
+931,Yasmin Ribeiro,Cartão de Crédito Black
+932,Lucas Rodrigues,Reserva de Emergência
+933,Carlos Santos,Day Trade
+934,Olivia Santos,Seguro de Vida
+935,Julia Costa,Seguro de Vida
+936,Fernanda Ferreira,Cartão de Crédito Black
+937,Julia Oliveira,Tesouro Direto
+938,Rafaela Pereira,Fundos Imobiliários (FIIs)
+939,Helena Martins,Reserva de Emergência
+940,Vitor Ferreira,Financiamento de Imóveis
+941,Nicolas Ferreira,Previdência Privada
+942,Pedro Oliveira,Fundos Imobiliários (FIIs)
+943,Gabriel Gomes,Reserva de Emergência
+944,Bruno Ribeiro,Fundos Imobiliários (FIIs)
+945,Helena Souza,Criptomoedas
+946,Daniela Souza,Previdência Privada
+947,Helena Almeida,Financiamento de Imóveis
+948,Carlos Pereira,Criptomoedas
+949,Ana Martins,Criptomoedas
+950,Tatiana Pereira,Previdência Privada
+951,Samuel Ferreira,Criptomoedas
+952,Ana Ribeiro,Day Trade
+953,Helena Pereira,Reserva de Emergência
+954,Fernanda Gomes,Seguro de Vida
+955,Gabriel Lima,Cartão de Crédito Black
+956,Nicolas Costa,Criptomoedas
+957,Olivia Araujo,Ações e Bolsa de Valores
+958,Samuel Araujo,Fundos Imobiliários (FIIs)
+959,Tatiana Souza,Day Trade
+960,Fernanda Santos,Seguro de Vida
+961,Fernanda Barbosa,Previdência Privada
+962,Gabriel Almeida,Fundos Imobiliários (FIIs)
+963,Rafaela Oliveira,Criptomoedas
+964,Mariana Almeida,Day Trade
+965,Rafaela Barbosa,Fundos Imobiliários (FIIs)
+966,Gabriel Souza,Previdência Privada
+967,Helena Santos,Criptomoedas
+968,Yasmin Gomes,Financiamento de Imóveis
+969,Samuel Lima,Day Trade
+970,Daniela Martins,Day Trade
+971,Mariana Martins,Previdência Privada
+972,Pedro Souza,Day Trade
+973,Yasmin Santos,Seguro de Vida
+974,Bruno Silva,Cartão de Crédito Black
+975,Julia Martins,Seguro de Vida
+976,Pedro Martins,Tesouro Direto
+977,Samuel Lima,Fundos Imobiliários (FIIs)
+978,Gabriel Pereira,Reserva de Emergência
+979,Helena Almeida,Fundos Imobiliários (FIIs)
+980,Vitor Martins,Ações e Bolsa de Valores
+981,Tatiana Souza,Previdência Privada
+982,Gabriel Araujo,Financiamento de Imóveis
+983,Nicolas Ferreira,Ações e Bolsa de Valores
+984,Lucas Silva,Ações e Bolsa de Valores
+985,Fernanda Silva,Previdência Privada
+986,Ana Rodrigues,Fundos Imobiliários (FIIs)
+987,Yasmin Rodrigues,Previdência Privada
+988,Fernanda Rodrigues,Seguro de Vida
+989,Gabriel Lima,Ações e Bolsa de Valores
+990,Julia Almeida,Day Trade
+991,Daniela Martins,Cartão de Crédito Black
+992,Tatiana Lima,Seguro de Vida
+993,Carlos Silva,Criptomoedas
+994,Ana Costa,Financiamento de Imóveis
+995,Olivia Silva,Day Trade
+996,Samuel Oliveira,Reserva de Emergência
+997,Nicolas Costa,Cartão de Crédito Black
+998,Tatiana Araujo,Fundos Imobiliários (FIIs)
+999,Yasmin Gomes,Seguro de Vida
+1000,Pedro Santos,Ações e Bolsa de Valores
